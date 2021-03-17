@@ -6,8 +6,6 @@ I'm the owner of [Winterbloom](https://winterbloom.com), an independent, woman-o
 
 I write articles about Python, developer relations, hardware design, and firmware development at [blog.thea.codes](https://blog.thea.codes).
 
-I'm currently working on the Flutter developer relations team Google.
-
 You can find out more about me at [thea.codes](https://thea.codes)
 
 You can see what equipment I use at [thea.codes/stuff.html](https://thea.codes/stuff.html)
