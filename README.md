@@ -6,9 +6,9 @@ I'm the owner of [Winterbloom](https://winterbloom.com), an independent, woman-o
 
 I write articles about Python, developer relations, hardware design, and firmware development at [blog.thea.codes](https://blog.thea.codes).
 
-You can find out more about me at [thea.codes](https://thea.codes)
+You can find out more about me at [thea.codes](https://thea.codes) and [thea.codes/stuff.html](https://thea.codes/stuff.html)
 
-You can see what equipment I use at [thea.codes/stuff.html](https://thea.codes/stuff.html)
+You can see what equipment I use at [thea.codes/tools.html](https://thea.codes/tools.html)
 
 I have my own color scheme for text editors called [Witch Hazel](https://witchhazel.thea.codes)
 
