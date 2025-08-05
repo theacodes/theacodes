@@ -1,4 +1,4 @@
-### :wave: Hi there, I'm Stargirl (also, sometimes, Thea)
+### :wave: Hi there, I'm Stargirl (Thea) Flowers
 
 I am an open source advocate and a highly experienced developer relations engineer.
 
