@@ -1,17 +1,32 @@
-### :wave: Hi there, I'm Stargirl (Thea) Flowers
+### :wave: Hi there, I'm Thea Flowers!
 
-I am an open source advocate and a highly experienced developer relations engineer.
+I'm a creative technologist and open source advocate. It's my mission in life to empower creativity through hardware, software, writing, and music.
 
-I'm the owner of [Winterbloom](https://winterbloom.com), an independent, woman-owned synthesizer company that creates open-source [Eurorack](https://en.wikipedia.org/wiki/Eurorack) modules.
+I'm currently working on open source manufacturing at [Opulo]. I'm also serving on the [OSHWA] board, cooking up [KiCanvas], and I used to make open source synthesizers as [Winterbloom].
 
-I write articles about Python, developer relations, hardware design, and firmware development at [blog.thea.codes](https://blog.thea.codes).
+You can find out more about me at [thea.codes] and [thea.codes/stuff.html]
 
-You can find out more about me at [thea.codes](https://thea.codes) and [thea.codes/stuff.html](https://thea.codes/stuff.html)
+I write articles about Python, developer relations, hardware design, and firmware development at [blog.thea.codes].
 
-You can see what equipment I use at [thea.codes/tools.html](https://thea.codes/tools.html)
+You can see what equipment I use at [thea.codes/tools.html]
 
-I have my own color scheme for text editors called [Witch Hazel](https://witchhazel.thea.codes)
+I have my own color scheme for text editors and more called [Witch Hazel].
 
-You can tip me on [Ko-fi](https://ko-fi.com/theacodes), or sponsor me through [GitHub Sponsors](https://github.com/sponsors/theacodes)
+You can tip me on [Ko-fi], or sponsor me through [GitHub Sponsors].
 
 Fun fact- I love weasels.
+
+
+
+
+[Opulo]: https://opulo.io
+[OSHWA]: https://oshwa.org
+[KiCanvas]: https://kicanvas.org
+[Winterbloom]: https://winterbloom.com
+[thea.codes]: https://thea.codes
+[thea.codes/stuff.html]: https://thea.codes/stuff.html
+[thea.codes/tools.html]: https://thea.codes/tools.html
+[blog.thea.codes]: https://blog.thea.codes
+[Witch Hazel]: https://witchhazel.thea.codes
+[Ko-fi]: https://ko-fi.com/theacodes
+[GitHub Sponsors]: https://github.com/sponsors/theacodes
